@@ -3,6 +3,7 @@ OpenSwift - circuitgrove.com
 
 A 3D printable R/C flying wing platform (1m span).  This design has been made possible through support from Printrbot (printrbot.com).  
 
+2D design source files were designed with Draftsight.  3D design source files created using ALibre 2012. 
 
 Copyright Circuit Grove Industries, 2013.
 
