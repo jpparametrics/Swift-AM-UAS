@@ -1,0 +1,13 @@
+git init --> para empezar
+git pull https://github.com.... ---> Para bajar lo que hay (ponerme al día)
+
+git add "fichero" --> Añadir un fichero al git local
+git commit - m "comentario" --> Realizar la aportación en repo local
+git push origin master --> enviar la aportación al repo github
+
+git remote add upstream https://github.com..... --> Para bajar el principal
+git remote -v --> para comprobar que este todo bien
+git fetch upstream --> para bajar el principal a local
+git checkout master --> para elegir mi fork (local)
+git merge upstream/master --> para clonar el principal a mi fork (y tenerlo actualizado)
+git push origin master --> para subir el local a mi github
